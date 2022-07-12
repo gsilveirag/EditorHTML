@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe.config
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\bin\Debug\EditorHTML.pdb
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
+C:\Users\User\Desktop\Estudos\Git\EditorHTML\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb
